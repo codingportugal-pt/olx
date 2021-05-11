@@ -1,5 +1,5 @@
 <?php require 'pages/header.php'; ?>
-	</nav>
+	
 	<div class="container-fluid">
 		<div class="jumbotron">
 			<h2>Temos hoje 999 anúncios</h2>
