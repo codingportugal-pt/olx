@@ -19,7 +19,7 @@
 					<li><a href="meus-anuncios.php">Meus Anúncios</a></li>
 					<li><a href="sair.php">Sair</a></li>
 				<?php else: ?>
-					<li><a href="cadastra-se.php">Cadastre-se</a></li>
+					<li><a href="cadastre-se.php">Cadastre-se</a></li>
 					<li><a href="login.php">Login</a></li>
 				<?php endif; ?>
 			</ul>
